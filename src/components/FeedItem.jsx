@@ -4,7 +4,7 @@ export default function FeedItem(props) {
             <img src={props.imageUrl} alt={props.alt} />
             <div className="options">
                 <p>{props.cardTitle}</p>
-                <p>dsada</p>
+                <p>--</p>
             </div>
         </article>
     )

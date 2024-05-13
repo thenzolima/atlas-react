@@ -1,6 +1,7 @@
 import Navbar from './components/Navbar.jsx'
 import Feed from './components/Feed.jsx'
 import FeedItem from './components/FeedItem.jsx'
+import Topbar from './components/Topbar.jsx'
 
 const itemListData = [
   {
@@ -29,6 +30,7 @@ const itemListData = [
 export default function App() {
   return (
     <div className='App'>
+      <Topbar />
       <Navbar />
       <main>
         <Feed titleFeed="Destaques do dia">
@@ -46,6 +48,7 @@ export default function App() {
             )
           }
         </Feed>
+
 
       </main>
     </div>
