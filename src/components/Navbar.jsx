@@ -1,25 +1,27 @@
+import { Link } from 'react-router-dom';
+
 export default function Navbar() {
     return (
         <nav>
-            <a href="#">
+            <Link to="/">
                 <ion-icon name="home"></ion-icon>
                 <p>Home</p>
-            </a>
+            </Link>
 
-            <a href="#">
+            <Link to="/Galerias">
                 <ion-icon name="images"></ion-icon>
                 <p>Galerias</p>
-            </a>
+            </Link>
 
-            <a href="#">
-                <ion-icon name="body"></ion-icon>
-                <p>Tecidos</p>
-            </a>
-
-            <a href="#">
+            <Link to='/Sobre'>
                 <ion-icon name="book"></ion-icon>
                 <p>Sobre</p>
-            </a>
+            </Link>
+
+            <Link to='/Ajustes'>
+                <ion-icon name="cog"></ion-icon>
+                <p>Ajustes</p>
+            </Link>
         </nav>
     )
 }
