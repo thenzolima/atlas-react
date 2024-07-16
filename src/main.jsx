@@ -10,6 +10,7 @@ import Galerias from './pages/Galerias.jsx'
 import Sobre from './pages/Sobre.jsx'
 import Home from './pages/Home.jsx'
 import ErrorPage from './pages/ErrorPage.jsx'
+import Content from './pages/Content.jsx'
 
 const router = createBrowserRouter([
   {
@@ -32,6 +33,10 @@ const router = createBrowserRouter([
       {
         path: "sobre",
         element: <Sobre />
+      },
+      {
+        path: "/content/:id",
+        element:<Content/>
       }
     ]
   }
