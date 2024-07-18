@@ -5,7 +5,6 @@ export default function Topbar() {
     const location = useLocation();
     const navigate = useNavigate();
 
-    // Verifica se a rota atual não é a página inicial
     const showBackButton = location.pathname !== '/';
 
     return (
