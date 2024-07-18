@@ -5,7 +5,7 @@ const Ajustes = () => {
         <div className='ajustes'>
             <h3>Ajustes</h3>
             <a href='mailto:contato@thenzolima.com.br'>
-                Relatar Erro
+                <p>Relatar Erro</p>
                 <ion-icon name="arrow-forward"></ion-icon>
             </a>
         </div>
