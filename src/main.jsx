@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
-
+import Topbar from './components/Topbar.jsx';
 import App from './App.jsx';
 import Ajustes from './pages/Ajustes.jsx';
 import Galerias from './pages/Galerias.jsx';

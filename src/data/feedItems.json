@@ -1,14 +1,26 @@
 [
-  { 
+  {
     "id": "bercario-de-borboletas",
-    "img":"http://atlasbioma.regilan.com.br/imagens/Mata%20Atl%C3%A2ntica/ber%C3%A7%C3%A1rio,%20borbolet%C3%A1rio,%20porto%20seguro.jpg",
+    "img": "http://atlasbioma.regilan.com.br/imagens/Mata%20Atl%C3%A2ntica/ber%C3%A7%C3%A1rio,%20borbolet%C3%A1rio,%20porto%20seguro.jpg",
     "title": "Berçário de borboletas",
-    "content": "Imagem de um berçário de borboletas, onde estas se encontram no estágio de desenvolvimento do tipo pupa ou crisálida. Região: Borboletário Asas Mágicas, unidade de conservação do município de Porto Seguro, Bahia."
+    "content": "A berçário de borboletas é um local dedicado à criação e conservação de borboletas, onde se cuidam dos diferentes estágios do ciclo de vida desses insetos: ovo, larva, pupa e adulto. Esses locais são importantes para a educação ambiental e a preservação de espécies ameaçadas.",
+    "local": "Porto Seguro - BA",
+    "curiosidade": "Algumas borboletas adultas têm vida muito curta. A borboleta-coruja, por exemplo, vive apenas cerca de duas semanas na fase adulta, gastando esse curto período se alimentando e reproduzindo."
   },
-  { 
+  {
     "id": "pupa",
-    "img":"http://atlasbioma.regilan.com.br/imagens/Mata%20Atl%C3%A2ntica/pupa,%20borbolet%C3%A1rio,%20porto%20seguro.jpg",
+    "img": "http://atlasbioma.regilan.com.br/imagens/Mata%20Atl%C3%A2ntica/pupa,%20borbolet%C3%A1rio,%20porto%20seguro.jpg",
     "title": "Pupa",
-    "content": "A pupa é um estágio intermediário entre a larva e o adulto no desenvolvimento de insetos que passam pelo ciclo de desenvolvimento conhecido como metamorfose completa. A pupa é protegida por um casulo."
+    "content": "A pupa é um estágio intermediário entre a larva e o adulto no desenvolvimento de insetos que passam pelo ciclo de desenvolvimento conhecido como metamorfose completa. A pupa é protegida por um casulo.",
+    "local": "Porto Seguro - BA",
+    "curiosidade": "Algumas pupas têm mecanismos de defesa impressionantes. Algumas espécies de borboletas possuem pupas que se camuflam perfeitamente com o ambiente, enquanto outras podem emitir sons ou ter espinhos para afastar predadores."
+  },
+  {
+    "id": "caligo-illioneus",
+    "img": "http://atlasbioma.regilan.com.br/imagens/Mata%20Atl%C3%A2ntica/Borboleta,%20Borbolet%C3%A1rio,%20Porto%20Seguro.jpg",
+    "title": "Caligo illioneus",
+    "content": "Caligo illioneus, também conhecida como borboleta-coruja, é uma espécie de borboleta nativa das florestas tropicais da América Central e do Sul. É conhecida por seus grandes olhos falsos nas asas traseiras, que se assemelham aos olhos de uma coruja, ajudando a afastar predadores.",
+    "local": "Porto Seguro - BA",
+    "curiosidade": " A borboleta-coruja é ativa principalmente ao amanhecer e ao entardecer, ao contrário da maioria das borboletas que são diurnas. Esse comportamento ajuda a evitar predadores que estão mais ativos durante o dia."
   }
 ]

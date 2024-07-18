@@ -10,9 +10,14 @@ function ContentPage() {
     <div className='contentPage'>
       {item ? (
         <>
-        <img src={`${item.img}`} alt="" />
+          <img src={`${item.img}`} alt="" />
           <h2>{item.title}</h2>
           <p>{item.content}</p>
+          <span>📷 {item.local}</span>
+          <span className="curiosidade">
+            <h4>Curiosidade</h4>
+            {item.curiosidade}
+          </span>
         </>
       ) : (
         <p>Item não encontrado</p>
