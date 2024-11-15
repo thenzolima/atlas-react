@@ -1,0 +1,93 @@
+[
+    {
+      "id": "actiniaria",
+      "imageUrl": "/imagens/Talassociclo/anêmona do mar praia da concha Ilhéus.jpg",
+      "cardTitle": "<i>Actiniaria</i>"
+    },
+    {
+      "id": "siderastrea-stellata",
+      "imageUrl": "/imagens/Talassociclo/Corais praia da concha Ilhéus.jpg",
+      "cardTitle": "<i>Siderastrea stellata</i>"
+    },
+    {
+      "id": "callinectes-marginatus",
+      "imageUrl": "/imagens/Talassociclo/Curstáceo serra grande.jpg",
+      "cardTitle": "<i>Callinectes marginatus</i>"
+    },
+    {
+      "id": "recifes-de-corais",
+      "imageUrl": "/imagens/Talassociclo/Fauna Corais, Arraial d_ajuda.jpg",
+      "cardTitle": "Recifes de corais"
+    },
+    {
+      "id": "diploria-strigosa",
+      "imageUrl": "/imagens/Talassociclo/Fauna coral cérebro, Arraial d_ajuda.jpg",
+      "cardTitle": "<i>Diploria strigosa</i>"
+    },
+    {
+      "id": "astacidea",
+      "imageUrl": "/imagens/Talassociclo/Lagostim praia da concha Ilhéus.jpg",
+      "cardTitle": "<i>Astacidea</i>"
+    },
+    {
+      "id": "mytilus-edulis",
+      "imageUrl": "/imagens/Talassociclo/Mexilhão praia da Concha Ilhéus.jpg",
+      "cardTitle": "<i>Mytilus edulis</i>"
+    },
+    {
+      "id": "zoea",
+      "imageUrl": "/imagens/Talassociclo/Microcrustáceo praia da concha Ilhéus.jpg",
+      "cardTitle": "Zoea"
+    },
+    {
+      "id": "moluscos",
+      "imageUrl": "/imagens/Talassociclo/Molusco praia da Concha Ilhéus.jpg",
+      "cardTitle": "Moluscos"
+    },
+    {
+      "id": "ourico-do-mar",
+      "imageUrl": "/imagens/Talassociclo/Ouriço do mar praia da Concha Ilhéus.jpg",
+      "cardTitle": "Ouriço do mar"
+    },
+    {
+      "id": "ginglymostoma-cirratum",
+      "imageUrl": "/imagens/Talassociclo/peixe tubarão lixa Ilha dos aquários porto seguro bahia.jpg",
+      "cardTitle": "<i>Ginglymostoma cirratum</i>"
+    },
+    {
+      "id": "peixe-mero",
+      "imageUrl": "/imagens/Talassociclo/Peixes mero adultos ilha dos aquários, porto seguro.jpg",
+      "cardTitle": "Peixe Mero"
+    },
+    {
+      "id": "serrasalmus-marginatus",
+      "imageUrl": "/imagens/Talassociclo/Peixes piranha branca ilha dos aquários, porto seguro.jpg",
+      "cardTitle": "<i>Serrasalmus marginatus</i>"
+    },
+    {
+      "id": "polychaeta",
+      "imageUrl": "/imagens/Talassociclo/Poliqueta anelídeo praia da Concha Ilhéus.jpg",
+      "cardTitle": "<i>Polychaeta</i>"
+    },
+    {
+      "id": "porifero",
+      "imageUrl": "/imagens/Talassociclo/Porífero praia da Concha Ilhéus.jpg",
+      "cardTitle": "<i>Porífero</i>"
+    },
+    {
+      "id": "gymnura-altavela",
+      "imageUrl": "/imagens/Talassociclo/Raia, ilha dos aquários, porto seguro.jpg",
+      "cardTitle": "<i>Gymnura altavela</i>"
+    },
+    {
+      "id": "favia-leptophylla",
+      "imageUrl": "/imagens/Talassociclo/Corais praia da concha Ilhéus2.jpg",
+      "cardTitle": "<i>Favia leptophylla</i>"
+    },
+    {
+      "id": "mussismilia-hispida",
+      "imageUrl": "/imagens/Talassociclo/Corais praia da concha Ilhéus3.jpg",
+      "cardTitle": "<i>Mussismilia hispida</i>"
+    }
+  ]
+  

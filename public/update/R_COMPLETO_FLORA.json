@@ -1,0 +1,83 @@
+[
+    {
+      "id": "caraiva",
+      "imageUrl": "/imagens/Restinga/Caraíva, Porto Seguro4.jpg",
+      "cardTitle": "Caraíva"
+    },
+    {
+      "id": "comandatuba",
+      "imageUrl": "/imagens/Restinga/Comandatuba, Una.jpg",
+      "cardTitle": "Comandatuba"
+    },
+    {
+      "id": "engenhoca",
+      "imageUrl": "/imagens/Restinga/Engenhoca, Itacaré.jpg",
+      "cardTitle": "Engenhoca"
+    },
+    {
+      "id": "havaizinho",
+      "imageUrl": "/imagens/Restinga/Havaizinho, Itacaré.jpg",
+      "cardTitle": "Havaizinho"
+    },
+    {
+      "id": "ilha-do-desejo",
+      "imageUrl": "/imagens/Restinga/Ilha da fantasia estrada Ilhéus-Olivença.jpg",
+      "cardTitle": "Ilha do Desejo"
+    },
+    {
+      "id": "ilha-pedra-furada",
+      "imageUrl": "/imagens/Restinga/Ilha pedra furada barra grande.jpg",
+      "cardTitle": "Ilha Pedra Furada"
+    },
+    {
+      "id": "mirantes-serra-grande",
+      "imageUrl": "/imagens/Restinga/Mirante Serra Grande 2.jpg",
+      "cardTitle": "Mirantes Serra Grande"
+    },
+    {
+      "id": "mirante-ponta-do-xareu",
+      "imageUrl": "/imagens/Restinga/Mirante ponta do Xareu, Itacaré.jpg",
+      "cardTitle": "Mirante Ponta do Xareu"
+    },
+    {
+      "id": "praia-da-concha",
+      "imageUrl": "/imagens/Restinga/Praia da concha, Itacaré.jpg",
+      "cardTitle": "Praia da Concha"
+    },
+    {
+      "id": "praia-do-espelho",
+      "imageUrl": "/imagens/Restinga/Praia do Espelho Porto Seguro10.jpg",
+      "cardTitle": "Praia do Espelho"
+    },
+    {
+      "id": "praia-do-backdoor",
+      "imageUrl": "/imagens/Restinga/Praia do backdoor Ilhéus.jpg",
+      "cardTitle": "Praia do Backdoor"
+    },
+    {
+      "id": "praia-ponta-de-muta",
+      "imageUrl": "/imagens/Restinga/Praia ponta de mutá Barra Grande.jpg",
+      "cardTitle": "Praia Ponta de Mutá"
+    },
+    {
+      "id": "sapetinga",
+      "imageUrl": "/imagens/Restinga/Sapetinga, Ilhéus.jpg",
+      "cardTitle": "Sapetinga"
+    },
+    {
+      "id": "praia-do-sargi",
+      "imageUrl": "/imagens/Restinga/Serra Grande.jpg",
+      "cardTitle": "Praia do Sargi"
+    },
+    {
+      "id": "praia-da-costa",
+      "imageUrl": "/imagens/Restinga/praia da costa, Itacaré.jpg",
+      "cardTitle": "Praia da Costa"
+    },
+    {
+      "id": "trilha-do-havaizinho",
+      "imageUrl": "/imagens/Restinga/trilha do havaizinho para Engenhoca, Itacaré.jpg",
+      "cardTitle": "Trilha do Havaizinho"
+    }
+  ]
+  

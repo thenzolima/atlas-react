@@ -1,0 +1,27 @@
+[
+  {
+    "id": "callinectes-marginatus",
+    "imageUrl": "/imagens/Talassociclo/Curstáceo serra grande.jpg",
+    "cardTitle": "<i>Callinectes marginatus</i>"
+  },
+  {
+    "id": "recifes-de-corais",
+    "imageUrl": "/imagens/Talassociclo/Fauna Corais, Arraial d_ajuda.jpg",
+    "cardTitle": "Recifes de corais"
+  },
+  {
+    "id": "moluscos",
+    "imageUrl": "/imagens/Talassociclo/Molusco praia da Concha Ilhéus.jpg",
+    "cardTitle": "Moluscos"
+  },
+  {
+    "id": "peixe-mero",
+    "imageUrl": "/imagens/Talassociclo/Peixes mero adultos ilha dos aquários, porto seguro.jpg",
+    "cardTitle": "Peixe Mero"
+  },
+  {
+    "id": "serrasalmus-marginatus",
+    "imageUrl": "/imagens/Talassociclo/Peixes piranha branca ilha dos aquários, porto seguro.jpg",
+    "cardTitle": "<i>Serrasalmus marginatus</i>"
+  }
+]
