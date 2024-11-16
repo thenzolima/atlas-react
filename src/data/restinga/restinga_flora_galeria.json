@@ -2,26 +2,31 @@
   {
     "id": "caraiva",
     "imageUrl": "/imagens/Restinga/Caraíva, Porto Seguro4.jpg",
-    "cardTitle": "Caraíva"
+    "cardTitle": "Caraíva",
+    "topic": "restinga"
   },
   {
     "id": "praia-da-concha",
     "imageUrl": "/imagens/Restinga/Praia da concha, Itacaré.jpg",
-    "cardTitle": "Praia da Concha"
+    "cardTitle": "Praia da Concha",
+    "topic": "restinga"
   },
   {
     "id": "praia-do-backdoor",
     "imageUrl": "/imagens/Restinga/Praia do backdoor Ilhéus.jpg",
-    "cardTitle": "Praia do Backdoor"
+    "cardTitle": "Praia do Backdoor",
+    "topic": "restinga"
   },
   {
     "id": "praia-ponta-de-muta",
     "imageUrl": "/imagens/Restinga/Praia ponta de mutá Barra Grande.jpg",
-    "cardTitle": "Praia Ponta de Mutá"
+    "cardTitle": "Praia Ponta de Mutá",
+    "topic": "restinga"
   },
   {
     "id": "sapetinga",
     "imageUrl": "/imagens/Restinga/Sapetinga, Ilhéus.jpg",
-    "cardTitle": "Sapetinga"
+    "cardTitle": "Sapetinga",
+    "topic": "restinga"
   }
 ]

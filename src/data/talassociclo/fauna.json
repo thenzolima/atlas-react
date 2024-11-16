@@ -1,0 +1,47 @@
+[
+  {
+    "id": "callinectes-marginatus",
+    "topic":"talassociclo",
+    "titulo": "<i>Callinectes marginatus</i>",
+    "imagens": "/imagens/Talassociclo/Curstáceo serra grande.jpg",
+    "content": "Caraíva é uma vila encantadora com ruas de areia e praias deslumbrantes. Seu charme rústico e acolhedor é perfeito para quem busca tranquilidade e contato com a natureza. As casas coloridas, a culinária típica e a cultura local criam um ambiente único.",
+    "local": "Porto Seguro - BA",
+    "curiosidade": "A proximidade com a foz do Rio Caraíva e a preservação ambiental fazem deste destino um lugar perfeito para relaxar e aproveitar o melhor da região."
+  },
+  {
+    "id": "recifes-de-corais",
+    "topic":"talassociclo",
+    "titulo": "Recifes de corais",
+    "imagens": "/imagens/Talassociclo/Fauna Corais, Arraial d_ajuda.jpg",
+    "content": "Caraíva é uma vila encantadora com ruas de areia e praias deslumbrantes. Seu charme rústico e acolhedor é perfeito para quem busca tranquilidade e contato com a natureza. As casas coloridas, a culinária típica e a cultura local criam um ambiente único.",
+    "local": "Porto Seguro - BA",
+    "curiosidade": "A proximidade com a foz do Rio Caraíva e a preservação ambiental fazem deste destino um lugar perfeito para relaxar e aproveitar o melhor da região."
+  },
+  {
+    "id": "moluscos",
+    "topic":"talassociclo",
+    "titulo": "Moluscos",
+    "imagens": "/imagens/Talassociclo/Molusco praia da Concha Ilhéus.jpg",
+    "content": "Caraíva é uma vila encantadora com ruas de areia e praias deslumbrantes. Seu charme rústico e acolhedor é perfeito para quem busca tranquilidade e contato com a natureza. As casas coloridas, a culinária típica e a cultura local criam um ambiente único.",
+    "local": "Porto Seguro - BA",
+    "curiosidade": "A proximidade com a foz do Rio Caraíva e a preservação ambiental fazem deste destino um lugar perfeito para relaxar e aproveitar o melhor da região."
+  },
+  {
+    "id": "peixe-mero",
+    "topic":"talassociclo",
+    "titulo": "Peixe Mero",
+    "imagens": "/imagens/Talassociclo/Peixes mero adultos ilha dos aquários, porto seguro.jpg",
+    "content": "Caraíva é uma vila encantadora com ruas de areia e praias deslumbrantes. Seu charme rústico e acolhedor é perfeito para quem busca tranquilidade e contato com a natureza. As casas coloridas, a culinária típica e a cultura local criam um ambiente único.",
+    "local": "Porto Seguro - BA",
+    "curiosidade": "A proximidade com a foz do Rio Caraíva e a preservação ambiental fazem deste destino um lugar perfeito para relaxar e aproveitar o melhor da região."
+  },
+  {
+    "id": "serrasalmus-marginatus",
+    "topic":"talassociclo",
+    "titulo": "<i>Serrasalmus marginatus</i>",
+    "imagens": "/imagens/Talassociclo/Peixes piranha branca ilha dos aquários, porto seguro.jpg",
+    "content": "Caraíva é uma vila encantadora com ruas de areia e praias deslumbrantes. Seu charme rústico e acolhedor é perfeito para quem busca tranquilidade e contato com a natureza. As casas coloridas, a culinária típica e a cultura local criam um ambiente único.",
+    "local": "Porto Seguro - BA",
+    "curiosidade": "A proximidade com a foz do Rio Caraíva e a preservação ambiental fazem deste destino um lugar perfeito para relaxar e aproveitar o melhor da região."
+  }
+]

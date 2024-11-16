@@ -1,26 +1,19 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import Feed from "../components/Feed.jsx";
 import FeedItem from "../components/FeedItem.jsx";
 
-const Gallery = ({ feedData, titleFeed }) => {
-  const [itemListData, setItemListData] = useState([]);
-
-  useEffect(() => {
-    setItemListData(feedData);
-  }, [feedData]);
-
-  return (
-    <Feed titleFeed={titleFeed}>
-      {itemListData.map((item) => (
-        <FeedItem
-          key={item.id}
-          id={item.id}
-          imageUrl={item.imageUrl}
-          cardTitle={item.cardTitle}
-        />
-      ))}
-    </Feed>
-  );
-};
+const Gallery = ({ feedData, titleFeed }) => (
+  <Feed titleFeed={titleFeed}>
+    {feedData.map(({ id, imageUrl, cardTitle, topic }) => (
+      <FeedItem
+        key={id}
+        id={id}
+        imageUrl={imageUrl}
+        cardTitle={cardTitle}
+        topic={topic}
+      />
+    ))}
+  </Feed>
+);
 
 export default Gallery;

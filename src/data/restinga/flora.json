@@ -1,38 +1,43 @@
 [
   {
     "id": "caraiva",
+    "topic":"restinga",
     "titulo": "Caraíva",
-    "imagens": "../imagens/Restinga/Caraíva, Porto Seguro4.jpg",
+    "imagens": "/imagens/Restinga/Caraíva, Porto Seguro4.jpg",
     "content": "Caraíva é uma vila encantadora com ruas de areia e praias deslumbrantes. Seu charme rústico e acolhedor é perfeito para quem busca tranquilidade e contato com a natureza. As casas coloridas, a culinária típica e a cultura local criam um ambiente único.",
     "local": "Porto Seguro - BA",
     "curiosidade": "A proximidade com a foz do Rio Caraíva e a preservação ambiental fazem deste destino um lugar perfeito para relaxar e aproveitar o melhor da região."
   },
   {
     "id":"praia-da-concha",
+    "topic":"restinga",
     "titulo": "Praia da Concha",
-    "imagens":"../imagens/Restinga/Praia da concha, Itacaré.jpg",
+    "imagens":"/imagens/Restinga/Praia da concha, Itacaré.jpg",
     "content":"Praia da Concha é uma praia urbana com ondas muito pequenas, nela ocorre o encontro do Rio de Contas com o mar.",
     "local":"Itacaré - BA",
     "curiosidade":"A Praia da Concha é ideal para banho e práticas de esportes aquáticos, como o stand-up paddle, devido às suas águas calmas."
   },
   {
     "id":"praia-do-backdoor",
+    "topic":"restinga",
     "titulo": "Praia da Backdoor",
-    "imagens":"../imagens/Restinga/Praia do backdoor Ilhéus.jpg",
+    "imagens":"/imagens/Restinga/Praia do backdoor Ilhéus.jpg",
     "content":"A Praia do Backdoor possui um vasto coqueiral e areia um pouco escura. A infraestrutura ao redor ainda é simples, mas conta com algumas pousadas e bares próximos, ideais para quem deseja curtir o dia ou até pernoitar.",
     "local":"Ilhéus - BA",
     "curiosidade":"A Praia do Backdoor é conhecida entre os surfistas pela qualidade das ondas, sendo palco de competições de surf na região."
   },
   {
     "id":"praia-ponta-de-muta",
+    "topic":"restinga",
     "titulo": "Praia Ponta de Mutá",
-    "imagens":"../imagens/Restinga/Praia ponta de mutá Barra Grande.jpg",
+    "imagens":"/imagens/Restinga/Praia ponta de mutá Barra Grande.jpg",
     "content":"A Praia Ponta de Mutá é conhecida por sua beleza tranquila e seu ambiente paradisíaco. É o ponto mais ao norte da península e um dos destinos preferidos para quem busca relaxar em águas calmas e cristalinas.",
     "local":"Península de Maraú - BA",
     "curiosidade":"A Praia Ponta de Mutá é famosa por seu pôr do sol deslumbrante, um dos mais bonitos da Península de Maraú."
   },
   {
     "id":"sapetinga",
+    "topic":"restinga",
     "titulo": "Sapetinga",
     "imagens":"/imagens/Restinga/Sapetinga, Ilhéus.jpg",
     "content":"A Baía da Sapetinga caracteriza-se por ser uma forma litorânea que apresenta uma forma arredondada quase fechada, lembrando a forma da letra 'u' ou de uma ferradura.",

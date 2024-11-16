@@ -1,26 +1,37 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
+import conteudos from "../data/conteudos";
 
-function ContentPage({ item }) {
-  const { id } = useParams(); // Pegando o id da URL
-  const itemDetails = item.find((i) => i.id === id); // Encontrando o item pelo id
+const ContentPage = () => {
+  const { topic, id } = useParams();
+  const [itemDetails, setItemDetails] = useState(null);
+
+  useEffect(() => {
+    const conteudoAtual = conteudos[topic] || [];
+    const item = conteudoAtual.find((i) => i.id === id);
+    setItemDetails(item);
+  }, [topic, id]);
 
   if (!itemDetails) {
-    return <p>Item não encontrado</p>; // Caso o item não seja encontrado
+    return <div className="error-message">Item não encontrado</div>;
   }
 
+  const { imagens, titulo, content, local, curiosidade } = itemDetails;
+
   return (
-    <div className="contentPage">
-      <img src={itemDetails.imagens} alt={itemDetails.titulo} />
-      <h2>{itemDetails.titulo}</h2>
-      <p>{itemDetails.content}</p>
-      <span>📷 {itemDetails.local}</span>
-      <span className="curiosidade">
-        <h4>Curiosidade</h4>
-        {itemDetails.curiosidade}
-      </span>
-    </div>
+    <article className="contentPage">
+      <img src={imagens} alt={titulo} />
+      <h2>{titulo}</h2>
+      <p>{content}</p>
+      <span>{local}</span>
+      {curiosidade && (
+        <div className="curiosidade">
+          <h4>Curiosidade</h4>
+          <p>{curiosidade}</p>
+        </div>
+      )}
+    </article>
   );
-}
+};
 
 export default ContentPage;

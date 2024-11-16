@@ -7,37 +7,25 @@ import Ajustes from "./pages/Ajustes.jsx";
 import Sobre from "./pages/Sobre.jsx";
 import Home from "./pages/Home.jsx";
 import ErrorPage from "./pages/ErrorPage.jsx";
-import Restinga from "./pages/restinga/Index.jsx";
+import IndexRestinga from "./pages/restinga/Index.jsx";
 import ContentPage from "./components/ContentPage.jsx";
-import dataRestinga from "./data/restinga/restinga_flora.json";
+import IndexTalassociclo from "./pages/talassociclo/Index.jsx";
+
+const routes = [
+  { path: "/", element: <Home /> },
+  { path: "ajustes", element: <Ajustes /> },
+  { path: "sobre", element: <Sobre /> },
+  { path: "restinga", element: <IndexRestinga /> },
+  { path: "talassociclo", element: <IndexTalassociclo /> },
+  { path: "/conteudo/:topic/:id", element: <ContentPage /> },
+];
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <App />,
     errorElement: <ErrorPage />,
-    children: [
-      {
-        path: "/",
-        element: <Home />,
-      },
-      {
-        path: "ajustes",
-        element: <Ajustes />,
-      },
-      {
-        path: "sobre",
-        element: <Sobre />,
-      },
-      {
-        path: "restinga",
-        element: <Restinga />,
-      },
-      {
-        path: "content/:id",
-        element: <ContentPage item={dataRestinga} />,
-      },
-    ],
+    children: routes,
   },
 ]);
 
