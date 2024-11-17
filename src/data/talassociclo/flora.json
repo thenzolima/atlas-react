@@ -1,48 +1,47 @@
 [
-    {
-      "id": "callinectes-marginatus",
-      "topic":"talassociclo",
-      "titulo": "<i>Callinectes marginatus</i>",
-      "imagens": "/imagens/Talassociclo/Curstáceo serra grande.jpg",
-      "content": "Caraíva é uma vila encantadora com ruas de areia e praias deslumbrantes. Seu charme rústico e acolhedor é perfeito para quem busca tranquilidade e contato com a natureza. As casas coloridas, a culinária típica e a cultura local criam um ambiente único.",
-      "local": "Porto Seguro - BA",
-      "curiosidade": "A proximidade com a foz do Rio Caraíva e a preservação ambiental fazem deste destino um lugar perfeito para relaxar e aproveitar o melhor da região."
-    },
-    {
-      "id": "recifes-de-corais",
-      "topic":"talassociclo",
-      "titulo": "Recifes de corais",
-      "imagens": "/imagens/Talassociclo/Fauna Corais, Arraial d_ajuda.jpg",
-      "content": "Caraíva é uma vila encantadora com ruas de areia e praias deslumbrantes. Seu charme rústico e acolhedor é perfeito para quem busca tranquilidade e contato com a natureza. As casas coloridas, a culinária típica e a cultura local criam um ambiente único.",
-      "local": "Porto Seguro - BA",
-      "curiosidade": "A proximidade com a foz do Rio Caraíva e a preservação ambiental fazem deste destino um lugar perfeito para relaxar e aproveitar o melhor da região."
-    },
-    {
-      "id": "moluscos",
-      "topic":"talassociclo",
-      "titulo": "Moluscos",
-      "imagens": "/imagens/Talassociclo/Molusco praia da Concha Ilhéus.jpg",
-      "content": "Caraíva é uma vila encantadora com ruas de areia e praias deslumbrantes. Seu charme rústico e acolhedor é perfeito para quem busca tranquilidade e contato com a natureza. As casas coloridas, a culinária típica e a cultura local criam um ambiente único.",
-      "local": "Porto Seguro - BA",
-      "curiosidade": "A proximidade com a foz do Rio Caraíva e a preservação ambiental fazem deste destino um lugar perfeito para relaxar e aproveitar o melhor da região."
-    },
-    {
-      "id": "peixe-mero",
-      "topic":"talassociclo",
-      "titulo": "Peixe Mero",
-      "imagens": "/imagens/Talassociclo/Peixes mero adultos ilha dos aquários, porto seguro.jpg",
-      "content": "Caraíva é uma vila encantadora com ruas de areia e praias deslumbrantes. Seu charme rústico e acolhedor é perfeito para quem busca tranquilidade e contato com a natureza. As casas coloridas, a culinária típica e a cultura local criam um ambiente único.",
-      "local": "Porto Seguro - BA",
-      "curiosidade": "A proximidade com a foz do Rio Caraíva e a preservação ambiental fazem deste destino um lugar perfeito para relaxar e aproveitar o melhor da região."
-    },
-    {
-      "id": "serrasalmus-marginatus",
-      "topic":"talassociclo",
-      "titulo": "<i>Serrasalmus marginatus</i>",
-      "imagens": "/imagens/Talassociclo/Peixes piranha branca ilha dos aquários, porto seguro.jpg",
-      "content": "Caraíva é uma vila encantadora com ruas de areia e praias deslumbrantes. Seu charme rústico e acolhedor é perfeito para quem busca tranquilidade e contato com a natureza. As casas coloridas, a culinária típica e a cultura local criam um ambiente único.",
-      "local": "Porto Seguro - BA",
-      "curiosidade": "A proximidade com a foz do Rio Caraíva e a preservação ambiental fazem deste destino um lugar perfeito para relaxar e aproveitar o melhor da região."
-    }
-  ]
-  
+  {
+    "id": "praia-da-engehoca",
+    "topic": "talassociclo",
+    "titulo": "Praia da Engenhoca",
+    "imagens": "/imagens/Talassociclo/Praia%20da%20Engenhoca.jpg",
+    "content": "Imagem do ambiente marinho da Praia da Engenhoca, com areia lisa e escura, formação rochosa e água azul.",
+    "local": "Itacaré - BA",
+    "curiosidade": "A Praia da Engenhoca é uma das praias preferidas pelos surfistas, devido às boas condições de ondas."
+  },
+  {
+    "id": "ulva-intestinalis",
+    "topic": "talassociclo",
+    "titulo": "Ulva intestinalis L. e Ulva",
+    "imagens": "/imagens/Talassociclo/Algas%20verdes%20praia%20da%20Concha%20Ilhéus.jpg",
+    "content": "Algas pertencentes ao Filo Chlorophyta, a da esquerda conhecida como “alga verde” ou erva-patinha. Nome científico: Ulva intestinalis L.. A da direita é conhecida como alface do mar (Ulva). ",
+    "local": "Ilhéus - BA",
+    "curiosidade": "Algumas espécies de Ulva são indicadoras de poluição marinha, crescendo abundantemente em áreas eutrofizadas."
+  },
+  {
+    "id": "chlorophyta-phaeophyceae",
+    "topic": "talassociclo",
+    "titulo": "Chlorophyta e Phaeophyceae",
+    "imagens": "/imagens/Talassociclo/Algas%20verdes%20e%20pardas%20praia%20da%20Concha%20Ilhéus.jpg",
+    "content": "Comparação entre Chlorophyta (alga verde) e Phaeophyceae (alga parda). A alga parda pertence ao gênero Sargassum sp..",
+    "local": "Ilhéus - BA",
+    "curiosidade": "O Sargassum pode formar grandes tapetes flutuantes no oceano, servindo de habitat para diversos organismos marinhos."
+  },
+  {
+    "id": "ulva",
+    "topic": "talassociclo",
+    "titulo": "Ulva",
+    "imagens": "/imagens/Talassociclo/Algas%20verdes%20praia%20da%20Concha%20Ilhéus2.jpg",
+    "content": "Nome científico: Ulva. Conhecida como algas verdes ou alface do mar. Possui ampla distribuição natural ao longo das costas de todos os oceanos. Pertencente ao gênero Ulva. Família: Ulvaceae. Filo: Chlorophyta, Clado: Viridiplantae. Classe: Ulvophyceae.",
+    "local": "Ilhéus - BA",
+    "curiosidade": "A alface do mar é comestível e utilizada em diversas culinárias ao redor do mundo."
+  },
+  {
+    "id": "rhodophyta",
+    "topic": "talassociclo",
+    "titulo": "Rhodophyta",
+    "imagens": "/imagens/Talassociclo/Algas%20vermelhas%20praia%20da%20Concha%20Ilhéus.jpg",
+    "content": "Nome científico: Rhodophyta: popularmente conhecida como “alga vermelha”, por apresentar coloração característica. Região: Praia da Concha em Ilhéus, Bahia. Classificação superior: Archaeplastida. Filo: Rhodophyta; Wettstein, 1922. Domínio: Eukaryota.",
+    "local": "Ilhéus - BA",
+    "curiosidade": "As algas vermelhas são amplamente utilizadas na produção de agar, um gel usado em alimentos e pesquisas científicas."
+  }
+]

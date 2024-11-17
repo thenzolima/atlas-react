@@ -1,0 +1,48 @@
+[
+  {
+    "id": "tagetes-sp",
+    "topic":"mataAtlantica",
+    "titulo": "Tagetes sp.",
+    "imagens": "/imagens/Mata Atlântica/Planta07-Cravo de defunto Tagetes sp (1).jpg",
+    "content": "Tagetes sp. é um gênero de plantas da família Asteraceae, nativo das Américas, com destaque no México e na América do Sul. Suas flores, em tons de amarelo, laranja e vermelho, são populares em jardins pela beleza e fácil cultivo. ",
+    "local": "Ilhéus - BA",
+    "curiosidade": "A popularidade do nome 'flor-de-defunto' para as plantas do gênero Tagetes, está profundamente ligada a sua utilização cultural em rituais fúnebres e de homenagem aos mortos."
+  },
+  {
+    "id": "cordyline-terminalis",
+    "topic":"mataAtlantica",
+    "titulo": "Cordyline terminalis",
+    "imagens": "/imagens/Mata Atlântica/Dracena vermelha (Cordyline terminalis), borboletário, Porto Seguro.jpg",
+    "content": "Cordyline terminalis é uma espécie de planta da família Arecaceae, nativa das florestas tropicais da Austrália e Nova Guiné. É conhecida por suas folhas longas e estreitas, que podem atingir até 2 metros de comprimento, e por suas inflorescências coloridas que variam de vermelho a laranja.",
+    "local": "Porto Seguro - BA",
+    "curiosidade": "A Cordyline terminalis é uma planta ornamental popular em jardins e parques, devido às suas folhas vibrantes e inflorescências coloridas."
+  },
+  {
+    "id": "etlingera-sp",
+    "topic":"mataAtlantica",
+    "titulo": "Etlingera sp.",
+    "imagens": "/imagens/Mata Atlântica/Planta21-Cravo de defunto amarelo Tagetes erecta L (3).jpg",
+    "content": "Etlingera sp. é uma espécie de planta da família Arecaceae, nativa das florestas tropicais da Austrália e Nova Guiné. É conhecida por suas folhas longas e estreitas, que podem atingir até 2 metros de comprimento, e por suas inflorescências coloridas que variam de vermelho a laranja.",
+    "local": "Ilhéus - BA",
+    "curiosidade": "A Etlingera sp. é uma planta ornamental popular em jardins e parques, devido às suas folhas vibrantes e inflorescências coloridas."
+  },
+  {
+    "id": "botao-de-alagoa",
+    "topic":"mataAtlantica",
+    "titulo": "Botão de Alagoa",
+    "imagens": "/imagens/Mata Atlântica/Planta15-botão de alagoa Família ASTERACEAE (2).jpg",
+    "content": "Botão de Alagoa é uma espécie de planta da família Arecaceae, nativa das florestas tropicais da Austrália e Nova Guiné. É conhecida por suas folhas longas e estreitas, que podem atingir até 2 metros de comprimento, e por suas inflorescências coloridas que variam de vermelho a laranja.",
+    "local": "Ilhéus - BA",
+    "curiosidade": "A Botão de Alagoa é uma planta ornamental popular em jardins e parques, devido às suas folhas vibrantes e inflorescências coloridas."
+  },
+  {
+    "id": "ixora-coccinea",
+    "topic":"mataAtlantica",
+    "titulo": "Ixora coccinea",
+    "imagens": "/imagens/Mata Atlântica/Ixora vermelha Ixora coccinea, borboletário, porto seguro.jpg",
+    "content": "Ixora coccinea é uma espécie de planta da família Arecaceae, nativa das florestas tropicais da Austrália e Nova Guiné. É conhecida por suas folhas longas e estreitas, que podem atingir até 2 metros de comprimento, e por suas inflorescências coloridas que variam de vermelho a laranja.",
+    "local": "Porto Seguro - BA",
+    "curiosidade": "A Ixora coccinea é uma planta ornamental popular em jardins e parques, devido às suas folhas vibrantes e inflorescências coloridas."
+  }
+]
+

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "piaya-cayana",
+    "topic": "mataAtlantica",
+    "titulo": "Piaya cayana",
+    "imagens": "/imagens/Mata Atlântica/IMG_3831.jpg",
+    "content": "Piaya cayana é uma espécie de ave da família Columbidae, nativa das Américas. É conhecida por suas cores vibrantes e pelo seu canto melodioso.",
+    "local": "Itabuna - BA",
+    "curiosidade": "A Piaya cayana é uma ave popular em jardins e parques, devido às suas cores vibrantes e ao seu canto melodioso."
+  },
+  {
+    "id": "anas-platyrhynchos",
+    "topic": "mataAtlantica",
+    "titulo": "Anas platyrhynchos",
+    "imagens": "/imagens/Mata Atlântica/IMG_3727.jpg",
+    "content": "Patos da espécie Anas platyrhynchos conhecida popularmente como pato-real ou marreco-selvagem, é a espécie a partir da qual o pato-doméstico foi desenvolvido. Trata-se de uma ave migratória de distribuição abundante",
+    "local": "Itabuna - BA",
+    "curiosidade": "O Anas platyrhynchos, conhecido como pato-real ou pato-selvagem, é a espécie ancestral de quase todas as raças de patos domésticos. Além disso, os machos têm uma plumagem vibrante com cabeça verde-metálica, usada para atrair as fêmeas durante o acasalamento."
+  },
+  {
+    "id": "caligo-illioneus",
+    "topic": "mataAtlantica",
+    "titulo": "Caligo illioneus",
+    "imagens": "/imagens/Mata Atlântica/Borboleta, Borboletário, Porto Seguro.jpg",
+    "content": "Borboleta da espécie Caligo illioneus. popularmente conhecida como Borboleta-coruja, é uma das maiores borboletas do mundo, as fêmeas são maiores e menos coloridas que os machos, podem chegar a apresentar 18 cm de envergadura. O interior das asas desses animais se assemelha a face de uma coruja, e é importante na proteção do inseto contra predadores. Muitas vezes a Borboleta Coruja é confundida por outros animais com um bicho mais perigoso.",
+    "local": "Porto Seguro - BA",
+    "curiosidade": "A borboleta-coruja possui manchas em suas asas que se assemelham a olhos de coruja, uma estratégia de defesa para assustar predadores, como aves. Esses padrões também ajudam a confundi-los, dando tempo para a borboleta escapar."
+  },
+  {
+    "id": "hamadryas-feronia",
+    "topic": "mataAtlantica",
+    "titulo": "Hamadryas feronia",
+    "imagens": "/imagens/Mata Atlântica/Borboleta, Borboletário, Porto Seguro7.jpg",
+    "content": "Borboleta pertencente a espécie Hamadryas feronia. Da Família: Ninfalídeos/Biblidinae. Vulgarmente chamada de “estaladeira”, devido ao ruído que produz durante o voo, pousa com as asas abertas. A pupa pode ser parasitada por hymenoptera. Lagartas são solitárias.",
+    "local": "Porto Seguro - BA",
+    "curiosidade": "A Hamadryas feronia, conhecida como borboleta-pedra, é famosa por seu padrão de asas que se camufla perfeitamente em troncos de árvores. Além disso, os machos produzem sons característicos por meio de estalos rápidos das asas, um comportamento chamado de crepitação."
+  },
+  {
+    "id": "pulsatrix-perspicillata",
+    "topic": "mataAtlantica",
+    "titulo": "Pulsatrix perspicillata",
+    "imagens": "/imagens/Mata Atlântica/IMG_3829.jpg",
+    "content": "Espécie Pulsatrix perspicillata popularmente conhecida como Murucututu ou Murucutu, é uma coruja grande e poderosa, encontrada por quase todo o Brasil. Devido aos hábitos discretos e noturnos, é mais ouvida do que vista.",
+    "local": "Itabuna - BA",
+    "curiosidade": "A Pulsatrix perspicillata, conhecida como coruja-de-sobrancelha, destaca-se pelas marcantes faixas brancas acima dos olhos, que lembram 'sobrancelhas'. É uma ave de rapina noturna encontrada em florestas tropicais, alimentando-se de pequenos mamíferos, aves e insetos."
+  }
+]

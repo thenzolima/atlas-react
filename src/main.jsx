@@ -10,13 +10,14 @@ import ErrorPage from "./pages/ErrorPage.jsx";
 import IndexRestinga from "./pages/restinga/Index.jsx";
 import ContentPage from "./components/ContentPage.jsx";
 import IndexTalassociclo from "./pages/talassociclo/Index.jsx";
-
+import IndexMataAtlantica from "./pages/mata-atlantica/Index.jsx";
 const routes = [
   { path: "/", element: <Home /> },
   { path: "ajustes", element: <Ajustes /> },
   { path: "sobre", element: <Sobre /> },
   { path: "restinga", element: <IndexRestinga /> },
   { path: "talassociclo", element: <IndexTalassociclo /> },
+  { path: "mata-atlantica", element: <IndexMataAtlantica /> },
   { path: "/conteudo/:topic/:id", element: <ContentPage /> },
 ];
 

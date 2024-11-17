@@ -4,44 +4,44 @@
     "topic":"talassociclo",
     "titulo": "<i>Callinectes marginatus</i>",
     "imagens": "/imagens/Talassociclo/Curstáceo serra grande.jpg",
-    "content": "Caraíva é uma vila encantadora com ruas de areia e praias deslumbrantes. Seu charme rústico e acolhedor é perfeito para quem busca tranquilidade e contato com a natureza. As casas coloridas, a culinária típica e a cultura local criam um ambiente único.",
-    "local": "Porto Seguro - BA",
-    "curiosidade": "A proximidade com a foz do Rio Caraíva e a preservação ambiental fazem deste destino um lugar perfeito para relaxar e aproveitar o melhor da região."
+    "content": "Espécie Callinectes marginatus popularmente conhecida como Caxangá, é um crustáceo decápode braquiuro da família dos portunídeos.",
+    "local": "Serra Grande - BA",
+    "curiosidade": "O Caxangá é conhecido por sua habilidade de nadar rapidamente devido às suas patas traseiras adaptadas como remos."
   },
   {
     "id": "recifes-de-corais",
     "topic":"talassociclo",
     "titulo": "Recifes de corais",
     "imagens": "/imagens/Talassociclo/Fauna Corais, Arraial d_ajuda.jpg",
-    "content": "Caraíva é uma vila encantadora com ruas de areia e praias deslumbrantes. Seu charme rústico e acolhedor é perfeito para quem busca tranquilidade e contato com a natureza. As casas coloridas, a culinária típica e a cultura local criam um ambiente único.",
+    "content": "Ecossistema de Recifes de corais, nessa imagem, se observa estrela-do-mar (Filo: Equinodermo), vivendo nesse ambiente. Os corais pertencem ao Filo Cnidária e são animais invertebrados marinhos.",
     "local": "Porto Seguro - BA",
-    "curiosidade": "A proximidade com a foz do Rio Caraíva e a preservação ambiental fazem deste destino um lugar perfeito para relaxar e aproveitar o melhor da região."
+    "curiosidade": "Os recifes de corais protegem as costas contra a erosão, dissipando a energia das ondas antes que cheguem à terra."
   },
   {
     "id": "moluscos",
     "topic":"talassociclo",
     "titulo": "Moluscos",
     "imagens": "/imagens/Talassociclo/Molusco praia da Concha Ilhéus.jpg",
-    "content": "Caraíva é uma vila encantadora com ruas de areia e praias deslumbrantes. Seu charme rústico e acolhedor é perfeito para quem busca tranquilidade e contato com a natureza. As casas coloridas, a culinária típica e a cultura local criam um ambiente único.",
-    "local": "Porto Seguro - BA",
-    "curiosidade": "A proximidade com a foz do Rio Caraíva e a preservação ambiental fazem deste destino um lugar perfeito para relaxar e aproveitar o melhor da região."
+    "content": "Espécie Littorina littorea popularmente conhecida como Caramujo, pertencente à classe: Gastropoda, Família: Gastrópodes e Filo: Moluscos.",
+    "local": "Ilhéus - BA",
+    "curiosidade": "Alguns moluscos, como os náutilos, podem controlar sua flutuabilidade ajustando o volume de gás em suas câmaras internas."
   },
   {
     "id": "peixe-mero",
     "topic":"talassociclo",
     "titulo": "Peixe Mero",
     "imagens": "/imagens/Talassociclo/Peixes mero adultos ilha dos aquários, porto seguro.jpg",
-    "content": "Caraíva é uma vila encantadora com ruas de areia e praias deslumbrantes. Seu charme rústico e acolhedor é perfeito para quem busca tranquilidade e contato com a natureza. As casas coloridas, a culinária típica e a cultura local criam um ambiente único.",
+    "content": "Espécie Epinephelus itajara popularmente conhecida como Mero, é uma espécie de peixe que habita zonas estuarinas (manguezais) e áreas costeiras, por isso, costumam ser encontrados em manguezais e costões rochosos, próximos de naufrágios, pilares de pontes e parcéis.",
     "local": "Porto Seguro - BA",
-    "curiosidade": "A proximidade com a foz do Rio Caraíva e a preservação ambiental fazem deste destino um lugar perfeito para relaxar e aproveitar o melhor da região."
+    "curiosidade": "O peixe mero pode viver mais de 50 anos e atingir mais de 2,5 metros de comprimento."
   },
   {
     "id": "serrasalmus-marginatus",
     "topic":"talassociclo",
     "titulo": "<i>Serrasalmus marginatus</i>",
     "imagens": "/imagens/Talassociclo/Peixes piranha branca ilha dos aquários, porto seguro.jpg",
-    "content": "Caraíva é uma vila encantadora com ruas de areia e praias deslumbrantes. Seu charme rústico e acolhedor é perfeito para quem busca tranquilidade e contato com a natureza. As casas coloridas, a culinária típica e a cultura local criam um ambiente único.",
+    "content": "Espécie Serrasalmus marginatus popularmente conhecida como Piranha Branca ou Pirambeba, é uma espécie temida devido seu ataque agressivo e frenético. Possui dentes triangulares extremamente afiados e mandíbula potente, além do focinho achatado, características que a credenciam a atacar e morder com força notável. ",
     "local": "Porto Seguro - BA",
-    "curiosidade": "A proximidade com a foz do Rio Caraíva e a preservação ambiental fazem deste destino um lugar perfeito para relaxar e aproveitar o melhor da região."
+    "curiosidade": "As piranhas são conhecidas por sua visão aguçada, o que as ajuda a localizar presas mesmo em águas turvas."
   }
 ]

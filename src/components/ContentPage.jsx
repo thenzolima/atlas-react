@@ -23,7 +23,7 @@ const ContentPage = () => {
       <img src={imagens} alt={titulo} />
       <h2>{titulo}</h2>
       <p>{content}</p>
-      <span>{local}</span>
+      <span>📷 {local}</span>
       {curiosidade && (
         <div className="curiosidade">
           <h4>Curiosidade</h4>
