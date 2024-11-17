@@ -1,0 +1,47 @@
+[
+    {
+      "id": "psathyrellaceae",
+      "topic":"mataAtlantica",
+      "titulo": "Psathyrellaceae",
+      "imagens": "/imagens/Mata%20Atlântica/IMG_3793.jpg",
+      "content": "Fungo da família Psathyrellaceae, que trata-se de um grupo de agáricos com esporos escuros que geralmente têm corpos frutíferos bastante frágeis e macios, e são caracterizados por impressões de esporos pretos, marrons escuros, raramente avermelhados ou mesmo em tons pastel.",
+      "local": "Ilhéus - BA",
+      "curiosidade": "O fungo Psathyrellaceae é um dos mais conhecidos e estudados por causa de suas características únicas e de sua ampla distribuição geográfica."
+    },
+    {
+        "id": "psathyrella-spp",
+        "topic":"mataAtlantica",
+        "titulo": "Psathyrella spp.",
+        "imagens": "/imagens/Mata%20Atlântica/IMG_3795.jpg",
+        "content": "O gênero Psathyrella spp. é representado por 400 espécies de cogumelos no mundo todo. Caracteriza-se por ter píleo hemisférico, marrom claro, com estipe frágil pálido.",
+        "local": "Ilhéus - BA",
+        "curiosidade": "Psathyrella spp. é um gênero de cogumelos conhecidos por sua capacidade de crescer em ambientes ricos em matéria orgânica em decomposição, como madeira e folhas mortas."
+      },
+      {
+        "id": "polyporus-arcularius",
+        "topic":"mataAtlantica",
+        "titulo": "Polyporus arcularius",
+        "imagens": "/imagens/Mata%20Atlântica/IMG_3715.jpg",
+        "content": "Espécie Polyporus arcularius popularmente conhecida como poliporo da primavera ou recebem também o nome científico Lentinus arcularius. Foi encontrado em todos os continentes, mas foi documentado principalmente nos Estados Unidos, Áustria, México, Austrália e Japão.",
+        "local": "Ilhéus - BA",
+        "curiosidade": "Polyporus arcularius é um fungo pertencente ao gênero Polyporus, conhecido por seu habitat em madeira em decomposição, especialmente troncos de árvores caídas."
+      },
+      {
+        "id": "lentinus-crinitus",
+        "topic":"mataAtlantica",
+        "titulo": "Lentinus crinitus",
+        "imagens": "/imagens/Mata%20Atlântica/IMG_3714.jpg",
+        "content": "Nome científico: Lentinus crinitus. É uma espécie de basidiomiceto bastante comum no Brasil, sendo frequentemente associada a troncos em decomposição. São fungos que apresentam basidioma centralmente estipitado, infundibuliforme e superfície abhimenial verrugosa a estrigosa.",
+        "local": "Ilhéus - BA",
+        "curiosidade": "O Lentinus crinitus é conhecido como 'cogumelo crinóide' devido às suas longas e peludas estruturas que saem de sua parte inferior, chamadas de setas."
+      },
+      {
+        "id": "fomitopsis-sp",
+        "topic":"mataAtlantica",
+        "titulo": "Fomitopsis sp.",
+        "imagens": "/imagens/Mata%20Atlântica/IMG_3680.jpg",
+        "content": "Fomitopsis sp. em um tronco de árvore. Fungo basidiomiceto conhecido popularmente como orelha-de-pau. Apresentam corpo de frutificação anual e algumas vezes perene, pileado, raramente ressupinado, séssil, dimidiado a ungulado; bastante rígido quando seco, usualmente sulcado; poros pequenos, redondos; branca, presentes em madeira morta.",
+        "local": "Ilhéus - BA",
+        "curiosidade": "Muitas espécies do gênero Fomitopsis são bioluminescentes, ou seja, podem emitir uma leve luz verde ou azulada à noite, devido a uma reação química nas células do cogumelo. Isso acontece principalmente em ambientes escuros, como florestas densas."
+      }
+]

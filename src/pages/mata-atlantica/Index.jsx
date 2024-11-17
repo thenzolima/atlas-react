@@ -17,6 +17,13 @@ const IndexMataAtlantica = () => {
     topic: "mataAtlanticaFlora"
   }));
 
+  const fungosData = conteudos.mataAtlanticaFungos.map(item => ({
+    id: item.id,
+    imageUrl: item.imagens,
+    cardTitle: item.titulo,
+    topic: "mataAtlanticaFungos"
+  }));
+
   return (
     <div>
       <div className="restinga-page">
@@ -25,6 +32,10 @@ const IndexMataAtlantica = () => {
       <br></br>
       <div className="restinga-page">
         <Gallery feedData={floraData} titleFeed="Flora da Mata Atlântica" />
+      </div>
+      <br></br>
+      <div className="restinga-page">
+        <Gallery feedData={fungosData} titleFeed="Fungos da Mata Atlântica" />
       </div>
     </div>
   );
