@@ -8,10 +8,10 @@ export default function Navbar() {
         <p>Home</p>
       </Link>
 
-      <Link to="/Galerias">
+      {/* <Link to="/Galerias">
         <ion-icon name="images"></ion-icon>
         <p>Galerias</p>
-      </Link>
+      </Link> */}
 
       <Link to="/Sobre">
         <ion-icon name="book"></ion-icon>
