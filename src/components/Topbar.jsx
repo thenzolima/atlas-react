@@ -14,7 +14,7 @@ export default function Topbar() {
           <ion-icon name="arrow-back-outline"></ion-icon>
         </button>
       )}
-      <p>Atlas</p>
+      <p>Álbum Biomas</p>
       <div className="otherside">
         <ion-icon name="search"></ion-icon>
       </div>

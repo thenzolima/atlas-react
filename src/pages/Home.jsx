@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const Home = () => (
   <div className="galeria">
-    <h1>Bem vindo ao Atlas</h1>
+    <h1>Bem vindo ao Álbum</h1>
     <Link to="/mata-atlantica">
         <img 
           src="/imagens/Mata Atlântica/Planta07-Cravo de defunto Tagetes sp (1).jpg"
