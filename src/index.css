@@ -178,3 +178,9 @@ p {
 .topbar .otherside {
   opacity: 0;
 }
+
+@media (min-width: 481px) and (max-width: 1024px){
+  nav a ion-icon {
+    font-size: 24px;
+  }
+}
