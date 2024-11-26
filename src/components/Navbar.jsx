@@ -8,11 +8,6 @@ export default function Navbar() {
         <p>Home</p>
       </Link>
 
-      {/* <Link to="/Galerias">
-        <ion-icon name="images"></ion-icon>
-        <p>Galerias</p>
-      </Link> */}
-
       <Link to="/Sobre">
         <ion-icon name="book"></ion-icon>
         <p>Sobre</p>
@@ -21,6 +16,11 @@ export default function Navbar() {
       <Link to="/Ajustes">
         <ion-icon name="cog"></ion-icon>
         <p>Ajustes</p>
+      </Link>
+
+      <Link to="https://drive.google.com/file/d/1SJDh2qLjGtpZbERkdA-Oa8sPtCrfznT-/view?usp=sharing">
+      <ion-icon name="lock-closed"></ion-icon>
+        <p>Privacidade</p>
       </Link>
     </nav>
   );
