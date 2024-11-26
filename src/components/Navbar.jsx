@@ -18,7 +18,7 @@ export default function Navbar() {
         <p>Ajustes</p>
       </Link>
 
-      <Link to="https://drive.google.com/file/d/1SJDh2qLjGtpZbERkdA-Oa8sPtCrfznT-/view?usp=sharing">
+      <Link to="https://raw.githubusercontent.com/thenzolima/atlas-react/master/public/politica.pdf">
       <ion-icon name="lock-closed"></ion-icon>
         <p>Privacidade</p>
       </Link>
